@@ -220,7 +220,7 @@ Total    : 7200.00 RWF
 
 ---
 
-**Author:** yvesknight  
+**Name:** Yves IRADUKUNDA GATABAZI
+**ID:** 27090
 **Course:** Object-Oriented Programming  
-**Institution:** AUCA  
-**Year:** 2025
+**School:** AUCA  
